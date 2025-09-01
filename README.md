@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 <p align="center">
-  <img src="[LINK PARA UMA IMAGEM/GRÁFICO IMPACTANTE DO SEU PROJETO]" width="700">
+  <img src="https://github.com/andrelsrn/imersao-python-alura-2025/blob/main/imagens/mapa-salario.png" width="700">
 </p>
 
 *Uma análise completa sobre a remuneração no mercado de Dados, explorando fatores como nível de experiência, tipo de contrato, trabalho remoto e muito mais. Este projeto foi desenvolvido como parte da Imersão Python da Alura.*
@@ -54,15 +54,29 @@ Os resultados desta análise fornecem insights valiosos para profissionais e emp
 
 ## 🚀 Resultados e Principais Insights
 
-*   **Insight 1**: O nível de experiência é um fator determinante para o salário. Com base em nossa análise, a média salarial aumenta significativamente com o nível de senioridade. (Podemos calcular a porcentagem exata se desejar, mas a visualização do box plot já demonstra claramente essa tendência).
+*   **Insight 1**: O nível de experiência é um fator determinante para o salário. Com base em nossa análise, a média salarial aumenta significativamente com o nível de senioridade.
+
+  <p align="center">
+  <img src="https://github.com/andrelsrn/imersao-python-alura-2025/blob/main/imagens/salario-senioridade.png" width="700">
+</p>
+
   
 *   **Insight 2**: Profissionais em regime de trabalho totalmente remoto (`remoto`) e presencial (`presencial`) apresentaram médias salariais mais elevadas em comparação com os que trabalham em regime híbrido (`hibrido`), com médias de aproximadamente \$151.077,66 e \$159.571,46, respectivamente, enquanto o regime híbrido teve uma média de aproximadamente \$80.706,48.
-  
+  <p align="center">
+  <img src="https://github.com/andrelsrn/imersao-python-alura-2025/blob/main/imagens/tipo-de-trabalho.png" width="700">
+</p>
 *   **Insight 3**: O cargo de **Research Team Lead** demonstrou ser o mais bem remunerado em nossa base de dados, com uma média salarial de \$450.000,00.
-  
+  <p align="center">
+  <img src="https://github.com/andrelsrn/imersao-python-alura-2025/blob/main/imagens/top10-salario.png" width="700">
+</p>
 *   **Insight 4**: Países como **Estados Unidos (US)**, **Canadá (CA)** e **Austrália (AU)**, com um número significativo de vagas de Data Scientist, apresentaram as maiores médias salariais para cargos de ciência de dados.
-
+<p align="center">
+  <img src="https://github.com/andrelsrn/imersao-python-alura-2025/blob/main/imagens/mapa-salario.png" width="700">
+</p>
 *   **Insight 5**: Empresas de **grande porte (`Grande`)** e **médio porte (`Médio`)** oferecem salários médios consideravelmente mais altos (\$158.157,58 e \$157.717,34, respectivamente) em comparação com empresas de **pequeno porte (`Pequeno`)** (\$88.012,52).
+  <p align="center">
+  <img src="https://github.com/andrelsrn/imersao-python-alura-2025/blob/main/imagens/media-tamanho-empresa.png" width="700">
+</p>
 
 *   **Insight 6**: A média salarial em USD tem mostrado uma **tendência geral de aumento** ao longo dos anos na base de dados, com um crescimento notável observado entre 2021 e 2024.
 
